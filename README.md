@@ -32,70 +32,103 @@ software design, agile methodologies and coaching developers. For professional e
 <h2>📊 Skills breakdown: </h2>
 <table>
     <tr>
-      <td width=215px;>
+      <td>
           Frontend
       </td>
-      <td width=300px;>
+      <td>
           Angular, React, Vue (Javascript/Typescript)
       </td>
       <td>
-          ████████░░&nbsp;&nbsp;(80 %)
+          ████████░░
       </td>
   </tr>
   <tr>
-      <td width=215px;>
+      <td>
           Backend
       </td>
-      <td width=300px;>
+      <td>
           C#.Net, RoR, Rust, NodeJS, Go
       </td>
       <td>
-          █████████░&nbsp;&nbsp;(90 %)
+          █████████░
       </td>
   </tr>
   <tr>
-    <td width=215px;>
+    <td>
         Software Architecture
     </td>
-    <td width=300px;>
+    <td>
         Microservices, Domain Driven Design, Event Driven Architecture, other architectures
     </td>
     <td>
-        █████████░&nbsp;&nbsp;(90 %)
+        █████████░
     </td>
   </tr>
   <tr>
-  <td width=215px;>
+  <td>
       Testing
   </td>
-  <td width=300px;>
+  <td width=20%;>
       Unit Testing, Integration Testing, Testing Strategy, Organizational Best Practices for Testing
   </td>
   <td>
-      █████████░&nbsp;&nbsp;(90 %)
+      █████████░
   </td>
   </tr>
     </tr>
   <tr>
-  <td width=215px;>
+  <td>
       Design Patterns
   </td>
-  <td width=300px;>
+  <td>
       Behavioral, Creational, Structural patterns 
   </td>
   <td>
-      █████████░&nbsp;&nbsp;(90 %)
+      █████████░
   </td>
   </tr>
   <tr>
-    <td width=215px;>
+    <td>
     Leadership
     </td>
-    <td width=300px;>
+    <td>
     Team leading, mentoring devs, technical coaching
     </td>
     <td>
-    █████████░&nbsp;&nbsp;(90 %)
+    █████████░
+    </td>
+  </tr>
+    <tr>
+    <td>
+    Agile
+    </td>
+    <td>
+    Scrum, Kanban, SAFe
+    </td>
+    <td>
+    ████████░░
+    </td>
+  </tr>
+  <tr>
+    <td>
+    Cloud
+    </td>
+    <td>
+    Azure
+    </td>
+    <td>
+    ███████░░░
+    </td>
+  </tr>
+    <tr>
+    <td>
+    UI/UX
+    </td>
+    <td>
+    User experience, design skills
+    </td>
+    <td>
+    ████░░░░░░
     </td>
   </tr>
 </table>
