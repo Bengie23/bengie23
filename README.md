@@ -1,7 +1,9 @@
 <h1>Hi - Hola - Bonjour, I'm Ben.</h1>
 <h4>I'm a  (Lead) software engineer / Architect with twelve years of experience in full-stack and 
 cloud-based application development (Microsoft Azure). Hands on software architecture, 
-software design, agile methodologies and coaching developers. For professional engagements, contact me   <a href="mailto:benswengineer@outlook.com">here </a>
+software design, agile methodologies and coaching developers. </h4>
+</br><a href='https://github.com/Bengie23/bengie23/blob/main/Benjamin__Lopez_-_Lead_Software_Engineer_%E2%80%A2_Technical_Architect.pdf'> Full resume</a> </br>
+For professional engagements, contact me   <a href="mailto:benswengineer@outlook.com">here </a>
 </h4>
 <h2> Latest Projects... </h2>
 <h5>⏰ 21 July, 2023| <a href="https://github.com/Bengie23/Hackamole.Quietu" target="_blank">Quietu</a> 👋</h5>
