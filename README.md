@@ -133,5 +133,10 @@ software design, agile methodologies and coaching developers. For professional e
   </tr>
 </table>
 <hr>
+<h2>Here are my most current ***LinkedIn*** Articles:</h2>
+💻<a href="https://www.linkedin.com/pulse/copy-architecture-devs-ben-lopez-84qgc/?trackingId=aa2RB7%2B%2FRXaXNqHrpqehNQ%3D%3D">Architecture for devs</a></br>
+📊<a href="https://www.linkedin.com/pulse/junior-dev-benjamin-lopez-gutierrez/?trackingId=SUe%2F65F5Q7S%2BrC0VYm7mMw%3D%3D">Junior dev role </a></br>
+🔥<a href="https://www.linkedin.com/pulse/dear-tech-recruiter-benjamin-lopez-gtz/?trackingId=SUe%2F65F5Q7S%2BrC0VYm7mMw%3D%3D">Dear Tech Recruiter...</a>
+<hr>
 
 Last Edited on: 02/09/2024
