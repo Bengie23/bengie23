@@ -9,7 +9,7 @@ fn main() {
                                   1,
                                   vec!["Career Path Strategy", "Coaching devs", "Technical Interviews", "Talent Allocation", "Experience helping clients to address staff & technical difficulties"]),
         SoftwareProfessional::new(Roles::LeadSoftwareEngineer,
-                                  3,
+                                  4,
                                   vec!["Micro-services", "Domain-Driven-Design", "Event-Driven-Architecture", "Architecture", "Design Patterns", "Azure"]),
         SoftwareProfessional::new(Roles::SeniorSoftwareEngineer,
                                   5,
