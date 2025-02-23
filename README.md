@@ -30,7 +30,7 @@ fn main() {
 <h4>I'm a  (Lead) software engineer / Architect with twelve years of experience in full-stack and 
 cloud-based application development (Microsoft Azure). Hands on software architecture, 
 software design, agile methodologies and coaching developers. </h4>
-</br><a href='https://github.com/Bengie23/bengie23/blob/main/Benjamin__Lopez_-_Lead_Software_Engineer_%E2%80%A2_Technical_Architect.pdf'> Full resume</a> </br>
+</br><a href='https://github.com/Bengie23/bengie23/blob/main/Ben%20Lopez%20Lead%20Software%20Engineer%20v3.pdf'> Full resume</a> </br>
 For professional engagements, contact me   <a href="mailto:benswengineer@outlook.com">here </a>
 </h4>
 
